@@ -1,0 +1,5 @@
+[27-Jul-2016 15:18:47 America/Chicago] PHP Warning:  json_decode() expects at least 1 parameter, 0 given in /home/penker/public_html/tmp/install_579917266a344/packages/plg_system_cachecleaner/script.install.php on line 47
+[04-Aug-2016 13:38:25 America/Chicago] PHP Fatal error:  Cannot redeclare class PlgSystemRegularLabsInstallerInstallerScript in /home/penker/public_html/tmp/install_57a38ba1bf49d/update/script.install.php on line 14
+[04-Aug-2016 13:39:29 America/Chicago] PHP Fatal error:  Cannot redeclare class PlgSystemRegularLabsInstallerInstallerScript in /home/penker/public_html/tmp/install_57a38be12f906/update/script.install.php on line 14
+[04-Aug-2016 13:40:33 America/Chicago] PHP Warning:  json_decode() expects at least 1 parameter, 0 given in /home/penker/public_html/tmp/install_57a38c20dbb77/packages/plg_system_cachecleaner/script.install.php on line 47
+[04-Aug-2016 16:12:35 America/Chicago] PHP Warning:  json_decode() expects at least 1 parameter, 0 given in /home/penker/public_html/tmp/install_57a3afc31a045/packages/plg_system_cachecleaner/script.install.php on line 47
